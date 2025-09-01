@@ -1,4 +1,4 @@
-# Frontend Interview Exercise — Product Explorer Dashboard (React) — openFDA Edition
+# Acoer Frontend Interview Assessment —  — openFDA Explorer
 
 A small, real-world task that reveals practical frontend skills: **data fetching**, **component design**, **state management**, **accessibility**, and attention to **UI detail**.  
 Designed to fit **90–120 minutes**, with optional stretch goals if you’d like to go further.
@@ -114,7 +114,7 @@ Please fork this repository to complete your assessment. You are welcome to modi
 
 - Push your completed solution to your forked repository.
 - Share the link to your repo with us.
-- If you want, include a short README note describing design decisions, assumptions, or anything you’d do with more time.
+- Fill in the CANDIDATE_QUESTIONNAIRE.MD
 
 ---
 
