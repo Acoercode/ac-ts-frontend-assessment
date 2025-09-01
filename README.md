@@ -27,8 +27,8 @@ Aim for **clean, readable code** and a **polished, responsive UI**.
 
 ## What We Provide
 
-- Starter instructions (you choose Vite/CRA/Next — **Vite recommended**)
-- Clear acceptance criteria and scoring rubric
+- Starter instructions
+- Clear acceptance criteria
 - A **query cheat-sheet** for openFDA
 
 ---
@@ -72,28 +72,11 @@ Aim for **clean, readable code** and a **polished, responsive UI**.
 
 ---
 
-## Scoring Rubric (100 pts)
-
-- Functionality: **35**
-- Code organization & readability: **25**
-- UX & accessibility: **20**
-- Error/loading/empty states: **10**
-- Responsiveness: **10**
-
-Stretch goals: **+10 bonus**
-
----
-
 ## Getting Started
 
-We recommend **Create React App (CRA)** with **Material UI**:
+We created this starter repo with **Create React App (CRA)** , **Typescript** and **Material UI**.
 
-```bash
-npx create-react-app openfda-explorer --template cra-template
-cd openfda-explorer
-npm install @mui/material @emotion/react @emotion/styled @mui/icons-material
-npm start
-```
+Please fork this repository to complete your assessment. You are welcome to modify, add, or remove anything as needed — the goal is to submit what you consider your best and most complete work.
 
 ---
 
@@ -127,10 +110,12 @@ npm start
   `limit=50&skip=0`  
   `limit=50&skip=50`
 
-### Rate Limiting
+### Submission
 
-- Watch for **HTTP 429 Too Many Requests**.
-- If a `Retry-After` header is present, respect it.
-- Otherwise, implement exponential backoff.
+- Push your completed solution to your forked repository.
+- Share the link to your repo with us.
+- If you want, include a short README note describing design decisions, assumptions, or anything you’d do with more time.
 
 ---
+
+✨ Tip: Don’t over-engineer. A clean, functional, and polished submission is far more valuable than unfinished extras. Have fun and show us how you think about building products!
