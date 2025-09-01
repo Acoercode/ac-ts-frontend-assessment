@@ -17,7 +17,7 @@ const Footer: React.FC = () => {
     <Box
       component="footer"
       sx={{
-        bgcolor: "#1a365d",
+        bgcolor: "#0d0d0d",
         color: "white",
         py: 6,
         mt: "auto",
@@ -91,23 +91,7 @@ const Footer: React.FC = () => {
                   Home
                 </Link>
                 <Link
-                  href="https://www.acoer.com/products"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  sx={{
-                    color: "rgba(255, 255, 255, 0.8)",
-                    textDecoration: "none",
-                    "&:hover": {
-                      color: "white",
-                      textDecoration: "underline",
-                    },
-                    transition: "color 0.2s ease",
-                  }}
-                >
-                  Products
-                </Link>
-                <Link
-                  href="https://www.acoer.com/company"
+                  href="https://www.acoer.com/company/about"
                   target="_blank"
                   rel="noopener noreferrer"
                   sx={{
@@ -123,7 +107,7 @@ const Footer: React.FC = () => {
                   About
                 </Link>
                 <Link
-                  href="https://www.acoer.com/contact"
+                  href="https://www.acoer.com/company/contact"
                   target="_blank"
                   rel="noopener noreferrer"
                   sx={{
@@ -175,7 +159,7 @@ const Footer: React.FC = () => {
                   <LinkedInIcon />
                 </IconButton>
                 <IconButton
-                  href="https://twitter.com/acoer_inc"
+                  href="https://x.com/acoerco"
                   target="_blank"
                   rel="noopener noreferrer"
                   sx={{
@@ -188,21 +172,6 @@ const Footer: React.FC = () => {
                   }}
                 >
                   <TwitterIcon />
-                </IconButton>
-                <IconButton
-                  href="https://github.com/acoer"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  sx={{
-                    color: "rgba(255, 255, 255, 0.8)",
-                    "&:hover": {
-                      color: "white",
-                      bgcolor: "rgba(255, 255, 255, 0.1)",
-                    },
-                    transition: "all 0.2s ease",
-                  }}
-                >
-                  <GitHubIcon />
                 </IconButton>
               </Stack>
             </Box>
@@ -232,7 +201,7 @@ const Footer: React.FC = () => {
               sx={{ justifyContent: { xs: "center", sm: "flex-end" } }}
             >
               <Link
-                href="https://www.acoer.com/privacy-policy"
+                href="https://www.acoer.com/legal/privacy-policy"
                 target="_blank"
                 rel="noopener noreferrer"
                 sx={{
@@ -248,7 +217,7 @@ const Footer: React.FC = () => {
                 Privacy Policy
               </Link>
               <Link
-                href="https://www.acoer.com/security-policy"
+                href="https://www.acoer.com/legal/security-policy"
                 target="_blank"
                 rel="noopener noreferrer"
                 sx={{
