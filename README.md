@@ -1,4 +1,4 @@
-# Acoer Frontend Interview Assessment —  — openFDA Explorer
+# Acoer Frontend Interview Assessment — openFDA Explorer
 
 A small, real-world task that reveals practical frontend skills: **data fetching**, **component design**, **state management**, **accessibility**, and attention to **UI detail**.  
 Designed to fit **90–120 minutes**, with optional stretch goals if you’d like to go further.
