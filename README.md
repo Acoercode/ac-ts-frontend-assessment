@@ -106,7 +106,9 @@ We created this starter repo with **Create React App (CRA)** , **Typescript**, *
 - **Device adverse events:** `/device/event.json`
 - **Food recalls:** `/food/enforcement.json`
 
-### Submission
+---
+
+## Submission
 
 - Push your completed solution to your private repository.
 - Invite `amacwhirter` and `amandaluniz` as collaborators to view your submission.
