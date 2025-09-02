@@ -22,19 +22,12 @@ Aim for **clean, readable code** and a **polished, responsive UI**.
 
 ---
 
-## What We Provide
-
-- Starter instructions
-- Clear acceptance criteria
-- A **query cheat-sheet** for openFDA
-
----
-
 ## Candidate Task
 
 Your goal is to build a filterable dashboard using data from one openFDA endpoint. The dashboard should combine a data table with at least three ApexCharts visualizations of different types, alongside filters and controls that make the data easy to explore.
 
 Core Requirements (90–120 minutes)
+
 1. Pick one endpoint: Select a single openFDA endpoint (Drug Events, Device Events, or Food Recalls).
 2. Data table:
    - Search input → translates into openFDA search queries
@@ -72,7 +65,7 @@ Core Requirements (90–120 minutes)
 
 ## Getting Started
 
-We created this starter repo with **Create React App (CRA)** , **Typescript**, **Material UI**, and **ApexCharts**.
+We created this starter repo with **Create React App (CRA)** , **Typescript**, **Material UI** (https://mui.com/material-ui/getting-started/), and **ApexCharts** (https://apexcharts.com/docs/react-charts/).
 
 1. Do NOT fork this repo
 2. Instead, use this repo as a template:

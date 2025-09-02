@@ -23,7 +23,7 @@ interface FrontLandingPageProps {
 }
 
 const FrontLandingPage: React.FC<FrontLandingPageProps> = ({
-  readmeHref = "./README.md",
+  readmeHref = "https://github.com/Acoercode/ac-ts-frontend-assessment/blob/main/README.md",
   title = "Frontend Interview Exercise — openFDA Explorer",
   subtitle = "Build a small, real-world React dashboard powered by live openFDA data.",
 }) => {
@@ -107,6 +107,8 @@ const FrontLandingPage: React.FC<FrontLandingPageProps> = ({
               component={MUILink}
               href={readmeHref}
               underline="none"
+              target="_blank"
+              rel="noopener noreferrer"
               sx={{
                 bgcolor: "#3182ce",
                 color: "white",
@@ -315,6 +317,8 @@ const FrontLandingPage: React.FC<FrontLandingPageProps> = ({
                 component={MUILink}
                 href={readmeHref}
                 underline="none"
+                target="_blank"
+                rel="noopener noreferrer"
                 sx={{
                   borderColor: "#3182ce",
                   color: "#3182ce",

@@ -57,8 +57,8 @@ const Dashboard: React.FC = () => {
                 color="#718096"
                 sx={{ lineHeight: 1.6 }}
               >
-                Example: Add a search form, results table, and pagination
-                controls.
+                Example: Add a search form, results table, pie/donut/line
+                charts.
               </Typography>
             </CardContent>
           </Card>

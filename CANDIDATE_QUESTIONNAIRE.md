@@ -66,4 +66,4 @@ This short note is optional but encouraged. Please use it to explain any design 
 
 ---
 
-*Remember: This is your chance to show us how you think and communicate as a developer. Quality of explanation often matters more than the specific technical choices you made.*
+_Remember: This is your chance to show us how you think and communicate as a developer. Quality of explanation often matters more than the specific technical choices you made._
