@@ -76,7 +76,15 @@ Aim for **clean, readable code** and a **polished, responsive UI**.
 
 We created this starter repo with **Create React App (CRA)** , **Typescript** and **Material UI**.
 
-Please fork this repository to complete your assessment. You are welcome to modify, add, or remove anything as needed — the goal is to submit what you consider your best and most complete work.
+1. Do NOT fork this repo
+2. Instead, use this repo as a template:
+   - At the top of the repo, click "Use this template" button.
+   - Select "Create new repository".
+   - Make sure your new repo is private.
+   - Give it a clear name
+   - Clone to your machine and complete work
+3. Add us as a collaborator on your repo so we can review your solution:
+   - Add `amacwhirter` and `amandaluniz`
 
 ---
 
